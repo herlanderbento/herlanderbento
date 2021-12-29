@@ -34,13 +34,13 @@
   
 </div><br>
 
-## 🏆 Prêmios, Cursos e Certificações
+## 🏆 Awards, Courses and Certifications
 
-| Descrição                                                       | Instituição | Ano  | Tipo         |
-| --------------------------------------------------------------- | ----------- | ---- | ------------ |
-| 🏅 Scrum Fundamentals Certified - SFC™                          | SCRUMstudy  | 2020 | Certificação |
-| 🏅 Crei bot através de Web Scraping, Crawling com C# e Selenium | Udemy       | 2019 | Curso        |
-| 🏅 2º Lugar Hackaton - I Edição HACKAPÃO                        | UNASP       | 2019 | Prêmio       |
+| Description                                                             | Institution | Year | Type          |
+| ----------------------------------------------------------------------- | ----------- | ---- | ------------- |
+| 🏅 Introduction to ReactJS                                              | DIO         | 2021 | Certification |
+| 🏅 Introduction to TypeScript: Exploring Classes, Types, and Interfaces | DIO         | 2021 | Certification |
+| 🏅 Git and GitHub For Beginners                                         | Udemy       | 2021 | Certification |
 
 ## 🌐 My Social Networks
 
