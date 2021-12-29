@@ -1,12 +1,12 @@
-### Hey👋, aqui é o Herlander Bento!
+### Hey👋, Here is Herlander Bento!
 
-## 🧑🏽‍💻 Um pouquinho sobre mim:
+## 🧑🏽‍💻 A little about myself:
 
 <div>
   <p>
-    Sou Desenvolvedor, apaixonado por tecnologia, com experiência no desenvolvimento de plataformas 
-    Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
-    modernos e adaptáveis (Conhecimentos em HTML5, CSS3, JavaScript, Typescript, ReactJS, NextJS, Sass, Bootstrap, Chakra UI etc... ).
+   I'm a developer, passionate about technology, with experience in platform development
+     Web using current market technologies to build responsive web systems,
+     modern and adaptable (Knowledge in HTML5, CSS3, JavaScript, Typescript, ReactJS, NextJS, Sass, Bootstrap, Chakra UI etc... ).
   </p>
 </div>
 
@@ -14,11 +14,11 @@
 
 <br/>
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
    <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
@@ -42,18 +42,17 @@
 | 🏅 Crei bot através de Web Scraping, Crawling com C# e Selenium | Udemy       | 2019 | Curso        |
 | 🏅 2º Lugar Hackaton - I Edição HACKAPÃO                        | UNASP       | 2019 | Prêmio       |
 
-## 🌐 Minhas Redes Sociais
+## 🌐 My Social Networks
 
+<br/>
 <div> 
-  <a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/artigotech/ivisconfessor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ivisconfessor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ivisconfessor" target="_blank"><img src="https://www.linkedin.com/in/herlander-bento-45a39b212/e" target="_blank"></a> 
 </div>
 
-## ⚙️ Estatísticas GitHub
+## ⚙️ GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/ivisconfessor">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ivisconfessor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivisconfessor&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/herlanderbento">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=herlanderbento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herlanderbento&layout=compact&langs_count=7&theme=dark"/>
 </div>
