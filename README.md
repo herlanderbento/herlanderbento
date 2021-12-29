@@ -10,7 +10,7 @@
   </p>
 </div>
 
-# 👨🏽‍💻🚀 Minhas Tecnologias
+# 👨🏽‍💻🚀 My Technologies
 
 <br/>
 <div style="display: inline_block">
