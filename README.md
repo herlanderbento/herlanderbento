@@ -6,7 +6,7 @@
   <p>
    I'm a developer, passionate about technology, with experience in platform development
      Web using current market technologies to build responsive web systems,
-     modern and adaptable (Knowledge in HTML5, CSS3, JavaScript, Typescript, ReactJS, NextJS, Sass, Bootstrap, Chakra UI etc... ).
+     modern and adaptable (Knowledge in HTML5, CSS3, JavaScript, Typescript, ReactJS, NextJS, Sass, Bootstrap etc... ).
   </p>
 </div>
 
