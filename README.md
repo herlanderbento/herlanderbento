@@ -10,7 +10,7 @@
   </p>
 </div>
 
-[# 👨🏽‍💻🚀 My Technologies
+ 👨🏽‍💻🚀 My Technologies
 
 <br/>
 <div style="display: inline_block">
@@ -34,7 +34,7 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
   
-</div><br>](url)
+</div><br>
 
 ## 🏆 Awards, Courses and Certifications
 
