@@ -1,5 +1,5 @@
 # Hi! I'm Herlander Bento 👋
-<img src="./mid-se.jpg">
+<img src="./software-develop.png">
 
 I'm a software developer, crafting software solutions since 2018. I have a passion for development, innovation, technology, and I strive to learn something new every day.<br />
 
